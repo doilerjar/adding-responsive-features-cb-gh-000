@@ -48,7 +48,7 @@
 
 @media only screen and (max-width: 750px) {
   .col-1, .col-2, .col-3 {
-    width: 100px; /* stack vertically */
+    width: 100%; /* stack vertically */
     margin-left: 0; /* now that things are stacked vertically */
     float: none; /* essentially a mobile page */
   }
