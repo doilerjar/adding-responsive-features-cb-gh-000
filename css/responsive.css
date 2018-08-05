@@ -52,4 +52,8 @@
     margin-left: 0; /* now that things are stacked vertically */
     float: none; /* essentially a mobile page */
   }
+  
+  .border-right {
+    border: 0;
+  }
 }
